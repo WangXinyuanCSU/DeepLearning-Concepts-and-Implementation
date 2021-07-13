@@ -1,7 +1,7 @@
-# DeepLearning
+# Deep Learning Concepts and Implementation
 Based on Pytorch, Linear Regression, MLP, CNN, RNN
 
-本项目包括Pytorch基础操作, Linear Regression, MLP, CNN, RNN；
+本项目包括Pytorch基础操作, Linear Regression, MLP, CNN, RNN(keras实现)；
 
 每个部分包括讲解和代码实现；
 
