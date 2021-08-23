@@ -5,4 +5,4 @@ Based on Pytorch, Linear Regression, MLP, CNN, RNN
 
 每个部分包括讲解和代码实现；
 
-图片和公式显示有问题，请下载后阅读。
+ipynb文件图片和公式显示有问题，请下载后运行阅读。
